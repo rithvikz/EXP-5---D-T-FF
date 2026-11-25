@@ -12,7 +12,7 @@ Q(next) = D
 ### T Flip-Flop
 Q(next) = T ⊕ Q   (Q(next) = Q if T = 0, Q(next) = Q' if T = 1)
 ## Files to be Created
-<img width="625" height="50" alt="image" src="https://github.com/user-attachments/assets/65034a51-5642-46ac-940a-f7ee975cea9c" />
+<img width="2170" height="187" alt="RTL File Purpose Table" src="https://github.com/user-attachments/assets/db472078-2598-4830-b9e9-bec54e1f6888" />
 
 ## Design / RTL Program
 // gedit dff_tff.v
